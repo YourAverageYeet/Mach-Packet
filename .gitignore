@@ -4,3 +4,4 @@
 #Folders to ignore
 __pycache__/
 Test-Files/
+Pickle-Files/
