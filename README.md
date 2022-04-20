@@ -1,7 +1,7 @@
 #  Mach Packet
 
 ### Usage:
-> python main.py file0.txt [file1.txt [...]]
+> `python main.py file0.txt [file1.txt [...]]`
 
 A simple Python "toy packet" class I made after learing how actual packets work.
 
